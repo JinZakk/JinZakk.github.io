@@ -1,1 +1,26 @@
+body {
+	background-color: #CC9933;
+	background-image: url("images/chicken.jpg");
+}
+.headcontent{
+	background-color: #E5E4E2;
+	width: 65vw;
+	height: 100px;
+	padding: 100px;
+	margin-top: 35px;
+	margin-left: 200px;
+	font-family: "Lucida Console";
+}
+.maincontent{
+	
+	background-color: #FEFCFF;
+	width: 65vw;
+	height: 100vh;
+	padding: 100px;
+	margin-left: 200px;
+	margin-bottom: 35px;
+	font-family: "Lucida Console";
+	font-size: 20px
+	
+}
 
